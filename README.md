@@ -2,10 +2,20 @@
 
 # 👋 Hi, I'm Faiz Yoshio
 
-### Full-Stack Developer • UI/UX Enthusiast • Creative Technologist
+### 🌱 Environmental Health Student • 💻 Developer • 🤖 Local AI Enthusiast • 🎨 Creative Technologist
 
 <p>
-  Building digital experiences across <strong>web, mobile, backend, cloud, automation, and creative technology</strong>.
+  <strong>Environmental Health Student at Poltekkes Kemenkes Bandung</strong>
+</p>
+
+<p>
+  Passionate about <strong>coding, software development, local AI, AI model training & fine-tuning,
+  automation, self-hosted technology, cloud infrastructure, UI/UX, and experimental technology.</strong>
+</p>
+
+<p>
+  Combining <strong>Environmental Health</strong> with <strong>Software Engineering, AI, and Digital Technology</strong>
+  to explore practical, useful, and innovative solutions.
 </p>
 
 <p>
@@ -22,21 +32,73 @@
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a developer who enjoys combining **engineering, design, and technology** to create useful digital products.
+I'm an **Environmental Health student at Poltekkes Kemenkes Bandung** with a strong interest in technology, software development, and artificial intelligence.
 
-My interests span from building scalable web applications and APIs to experimenting with **cloud infrastructure, automation, AI tooling, 3D, multimedia, and interactive experiences**.
+Although my academic background is in Environmental Health, I enjoy spending my free time **coding, building applications, experimenting with local AI models, training and fine-tuning models, and exploring new technologies**.
 
-### Currently Exploring
+I'm especially interested in understanding how things work under the hood rather than simply using them.
 
-* Full-stack application architecture
-* AI & LLM tooling
-* Cloud infrastructure and deployment
-* Automation & developer tooling
-* Modern frontend ecosystems
-* Interactive 3D experiences
-* UI/UX and digital product design
+### 🔭 What I'm Into
+
+* 💻 Software Development & Programming
+* 🤖 Local AI / LLM / Generative AI
+* 🧠 AI Model Training & Fine-Tuning
+* ⚡ Local Inference & Performance Optimization
+* 🔄 Automation & Developer Tooling
+* 🖥️ Self-Hosted Services & Infrastructure
+* ☁️ Cloud Computing & Deployment
+* 🌐 Web & Mobile Development
+* 🎨 UI/UX & Digital Product Design
+* 🧊 3D & Interactive Technology
+* 🔧 Hardware, IoT & Experimental Projects
+
+---
+
+## 🤖 AI & Local AI
+
+One of my biggest interests is **running and experimenting with AI locally**.
+
+I enjoy exploring the full workflow behind AI systems, from models and inference to APIs, applications, and automation.
+
+### Areas I'm Exploring
+
+* 🧠 Local LLM deployment
+* 🏋️ Model training & fine-tuning
+* ⚙️ Model loading & optimization
+* 🚀 GPU acceleration & inference
+* 🔗 Multi-model / LLM routing
+* 💬 AI-powered applications
+* 🔌 AI APIs & integrations
+* 🐳 Containerized AI environments
+* 🏠 Self-hosted AI infrastructure
+* 🔄 Automated AI workflows
+* 🛠️ AI developer tooling
+
+> **Model → Inference → API → Application → Automation**
+
+I enjoy experimenting with the entire pipeline and understanding how each component works together.
+
+---
+
+## 🌱 Environmental Health × Technology
+
+My academic background and technical interests may seem different, but I enjoy combining both.
+
+I'm interested in exploring how **software, automation, data, and AI** can be applied to areas related to Environmental Health and public health technology.
+
+```text
+Environmental Health
+        ↓
+Data & Digitalization
+        ↓
+Automation
+        ↓
+AI / Local AI
+        ↓
+Useful Applications & Tools
+```
 
 ---
 
@@ -65,6 +127,15 @@ My interests span from building scalable web applications and APIs to experiment
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+## 🤖 AI, GPU & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nvidia&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Local_AI-111111?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Experimentation-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ## 🎨 Frontend & UI
@@ -142,8 +213,6 @@ My interests span from building scalable web applications and APIs to experiment
   <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/>
-  <img src="https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
 </p>
 
 ## 🧩 Other Interests
@@ -157,11 +226,35 @@ My interests span from building scalable web applications and APIs to experiment
 
 ---
 
+# 🧠 Things I Like Building
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🌐 Web Applications                                     │
+│  📱 Mobile Applications                                  │
+│  ⚙️  APIs & Backend Systems                             │
+│  🤖 Local AI / LLM Applications                          │
+│  🧠 AI Model Experiments & Fine-Tuning                  │
+│  🔄 Automation & AI Workflows                           │
+│  🖥️  Self-Hosted Services                               │
+│  ☁️  Cloud Infrastructure                               │
+│  🎨 UI/UX & Digital Experiences                         │
+│  🧊 3D & Interactive Projects                           │
+│  🔧 IoT & Hardware Experiments                          │
+│  🌱 Environmental Health Technology                     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=faizyoshio&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=faizyoshio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 <br/>
@@ -177,16 +270,6 @@ My interests span from building scalable web applications and APIs to experiment
 <div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=faizyoshio&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-# 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
@@ -212,22 +295,13 @@ My interests span from building scalable web applications and APIs to experiment
 
 ---
 
-# 🎯 What I Build
+# 💡 Random Dev Quote
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   🌐 Web Applications                                    │
-│   📱 Mobile Applications                                 │
-│   ⚙️  APIs & Backend Systems                             │
-│   ☁️  Cloud Infrastructure                               │
-│   🤖 AI & Developer Tooling                              │
-│   🎨 UI/UX & Digital Experiences                         │
-│   🧊 3D & Interactive Experiences                        │
-│   🔧 Automation & Experimental Projects                  │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
 
 ---
 
@@ -245,24 +319,26 @@ My interests span from building scalable web applications and APIs to experiment
 
 </div>
 
-> Replace `YOUR_REPOSITORY_1` and `YOUR_REPOSITORY_2` with your actual best projects.
+> Replace `YOUR_REPOSITORY_1` and `YOUR_REPOSITORY_2` with your actual featured repositories.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Build Something
+### 🌱 Health × 💻 Technology × 🤖 AI
 
-**Code • Design • Cloud • AI • Creativity**
+**Building, experimenting, learning, and turning ideas into working systems.**
 
 <br/>
 
 <a href="https://github.com/faizyoshio">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/faizyoshio">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://youtube.com/@faizyoshio">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
@@ -275,7 +351,7 @@ My interests span from building scalable web applications and APIs to experiment
 
 <!--
 ============================================================
-  README PROFILE
-  GitHub: https://github.com/faizyoshio
+  Faiz Yoshio
+  Environmental Health × Software × AI × Creative Tech
 ============================================================
 -->
