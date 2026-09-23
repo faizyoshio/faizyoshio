@@ -41,7 +41,7 @@
     />
   </a>
   <img
-    src="https://komarev.com/ghpvc/?username=faizyoshio&style=for-the-badge&color=13"
+    src="https://komarev.com/ghpvc/?username=faizyoshio&style=for-the-badge&logo=github"
     alt="Profile Views"
   />
 </p>
