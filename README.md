@@ -6,6 +6,8 @@
 
 <p>
    <strong>Environmental Health Student at Poltekkes Kemenkes Bandung</strong>
+</p>
+<p>
   <img src="https://keperawatan.poltekkesbandung.ac.id/wp-content/uploads/2024/02/cropped-kemenkes_poltekkes_bandung-removebg-preview.png"
        alt="Poltekkes Kemenkes Bandung"
        height="32"
