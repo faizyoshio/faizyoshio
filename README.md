@@ -5,7 +5,7 @@
 ### 🌱 Environmental Health Student • 💻 Developer • 🤖 Local AI Enthusiast • 🎨 Creative Technologist
 
 <p>
-  <strong>Environmental Health Student at Poltekkes Kemenkes Bandung</strong>
+  <strong>Environmental Health Student at Poltekkes Kemenkes Bandung <img src="https://keperawatan.poltekkesbandung.ac.id/wp-content/uploads/2024/02/cropped-kemenkes_poltekkes_bandung-removebg-preview.png"/></strong>
 </p>
 
 <p>
