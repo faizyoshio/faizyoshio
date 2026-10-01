@@ -94,17 +94,17 @@ I'm interested in exploring how **software, automation, data, and AI** can be ap
 
 <div align="center">
 
-<a href="https://github.com/faizyoshio/Advanced-TradingView-Indicator-Suite">
+<a href="https://github.com/faizyoshio/ecomate-iot-system">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=Advanced-TradingView-Indicator-Suite&theme=dark&hide_border=true"
-    alt="Advanced TradingView Indicator Suite"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=ecomate-iot-system&theme=dark&hide_border=true"
+    alt="Ecomate IoT System"
   />
 </a>
 
-<a href="https://github.com/faizyoshio/bmi-calculator">
+<a href="https://github.com/faizyoshio/Pixel-Vault-Run">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=bmi-calculator&theme=dark&hide_border=true"
-    alt="BMI Calculator"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=Pixel-Vault-Run&theme=dark&hide_border=true"
+    alt="Pixel Vault Run"
   />
 </a>
 
@@ -115,10 +115,10 @@ I'm interested in exploring how **software, automation, data, and AI** can be ap
   />
 </a>
 
-<a href="https://github.com/faizyoshio/reaserch-finder-Project">
+<a href="https://github.com/faizyoshio/Advanced-TradingView-Indicator-Suite">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=reaserch-finder-Project&theme=dark&hide_border=true"
-    alt="Research Finder Project"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=Advanced-TradingView-Indicator-Suite&theme=dark&hide_border=true"
+    alt="Advanced TradingView Indicator Suite"
   />
 </a>
 
