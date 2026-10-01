@@ -111,17 +111,194 @@ My academic background and technical interests may seem different, but I enjoy c
 
 I'm interested in exploring how **software, automation, data, and AI** can be applied to areas related to Environmental Health, research, education, productivity, and public health technology.
 
+```mermaid
+flowchart TD
+    EH[🌿 Environmental Health] -->|Data & Digitalization| D1[📊 Data & Digitalization]
+    D1 -->|Automation| A1[⚡ Automation]
+    A1 -->|AI / Local AI| A2[🤖 AI / Local AI]
+    A2 -->|Useful Applications| T1[🛠️ Useful Apps & Tools]
+    
+    style EH fill:#2e7d32,stroke:#1b5e20,color:#fff
+    style D1 fill:#1565c0,stroke:#0d47a1,color:#fff
+    style A1 fill:#ff8f00,stroke:#e65100,color:#fff
+    style A2 fill:#7b1fa2,stroke:#4a148c,color:#fff
+    style T1 fill:#c62828,stroke:#b71c1c,color:#fff
+```
+
+---
+
+# 🧠 Things I Like Building
+
 ```text
-Environmental Health
-        ↓
-Data & Digitalization
-        ↓
-Automation
-        ↓
-AI / Local AI
-        ↓
-Useful Applications & Tools
-````
+🌐 Web Applications
+📱 Mobile Applications
+⚙️ APIs & Backend Systems
+🤖 Local AI / LLM Applications
+🧠 AI Model Experiments & Fine-Tuning
+🔄 Automation & AI Workflows
+🖥️ Self-Hosted Services
+☁️ Cloud Infrastructure
+🗄️ Database-Driven Applications
+🎨 UI/UX & Digital Experiences
+🧊 3D & Interactive Projects
+🔧 IoT & Hardware Experiments
+🌱 Environmental Health Technology
+🔐 Privacy & Networking Experiments
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  
+<img
+src="https://streak-stats.demolab.com/?user=faizyoshio&theme=dark&hide_border=true"
+alt="Faiz Yoshio's GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 💡 Random Dev Quote
+
+<div align="center">
+
+<img
+src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+alt="Random Dev Quote"
+/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/faizyoshio/Advanced-TradingView-Indicator-Suite">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=Advanced-TradingView-Indicator-Suite&theme=dark&hide_border=true"
+    alt="Advanced TradingView Indicator Suite"
+  />
+</a>
+
+<a href="https://github.com/faizyoshio/bmi-calculator">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=bmi-calculator&theme=dark&hide_border=true"
+    alt="BMI Calculator"
+  />
+</a>
+
+<br/>
+
+<a href="https://github.com/faizyoshio/reaserch-finder-Project">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=reaserch-finder-Project&theme=dark&hide_border=true"
+    alt="Research Finder Project"
+  />
+</a>
+
+<a href="https://github.com/faizyoshio/OnlineConverter">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=OnlineConverter&theme=dark&hide_border=true"
+    alt="Online Converter"
+  />
+</a>
+
+</div>
+
+---
+
+# 🚀 Current Interests
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    subgraph Core["🎯 Core Focus"]
+        SE[💻 Software Engineering]
+        FS[🌐 Full-Stack Development]
+    end
+
+    subgraph AI["🤖 AI & Intelligence"]
+        LLM[🤖 Local AI & LLMs]
+        AT[🧠 AI Training & Fine-Tuning]
+        GPU[⚡ GPU Computing & Inference]
+    end
+
+    subgraph Infra["🛠️ Infrastructure"]
+        AU[🔄 Automation & Dev Tooling]
+        SH[🖥️ Self-Hosted Infra]
+        CD[☁️ Cloud & DevOps]
+    end
+
+    subgraph Impact["🌱 Impact"]
+        EH[🌱 Environmental Health Tech]
+        CT[🎨 Creative & Interactive Tech]
+    end
+
+    Core --> AI
+    Core --> Infra
+    Core --> Impact
+    AI --> Infra
+    Infra --> Impact
+
+    style SE fill:#1565c0,stroke:#0d47a1,color:#fff
+    style FS fill:#1565c0,stroke:#0d47a1,color:#fff
+    style LLM fill:#7b1fa2,stroke:#4a148c,color:#fff
+    style AT fill:#7b1fa2,stroke:#4a148c,color:#fff
+    style GPU fill:#7b1fa2,stroke:#4a148c,color:#fff
+    style AU fill:#e65100,stroke:#bf360c,color:#fff
+    style SH fill:#e65100,stroke:#bf360c,color:#fff
+    style CD fill:#e65100,stroke:#bf360c,color:#fff
+    style EH fill:#2e7d32,stroke:#1b5e20,color:#fff
+    style CT fill:#2e7d32,stroke:#1b5e20,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Health × 💻 Technology × 🤖 AI
+
+**Building, experimenting, learning, and turning ideas into working systems.**
+
+<br/>
+
+<a href="https://github.com/faizyoshio">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://linkedin.com/in/faizyoshio">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://youtube.com/@faizyoshio">
+  <img
+    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=faizyoshio&label=Profile%20Views&style=flat-square&color=13"
+alt="Profile Views"
+/>
+
+</div>
 
 ---
 
@@ -266,155 +443,6 @@ Useful Applications & Tools
 
 ---
 
-# 🧠 Things I Like Building
-
-```text
-🌐 Web Applications
-📱 Mobile Applications
-⚙️ APIs & Backend Systems
-🤖 Local AI / LLM Applications
-🧠 AI Model Experiments & Fine-Tuning
-🔄 Automation & AI Workflows
-🖥️ Self-Hosted Services
-☁️ Cloud Infrastructure
-🗄️ Database-Driven Applications
-🎨 UI/UX & Digital Experiences
-🧊 3D & Interactive Projects
-🔧 IoT & Hardware Experiments
-🌱 Environmental Health Technology
-🔐 Privacy & Networking Experiments
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-  
-<img
-src="https://streak-stats.demolab.com/?user=faizyoshio&theme=dark&hide_border=true"
-alt="Faiz Yoshio's GitHub Streak"
-/>
-
-</div>
-
----
-
-# 💡 Random Dev Quote
-
-<div align="center">
-
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-alt="Random Dev Quote"
-/>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/faizyoshio/Advanced-TradingView-Indicator-Suite">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=Advanced-TradingView-Indicator-Suite&theme=dark&hide_border=true"
-    alt="Advanced TradingView Indicator Suite"
-  />
-</a>
-
-<a href="https://github.com/faizyoshio/bmi-calculator">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=bmi-calculator&theme=dark&hide_border=true"
-    alt="BMI Calculator"
-  />
-</a>
-
-<br/>
-
-<a href="https://github.com/faizyoshio/reaserch-finder-Project">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=reaserch-finder-Project&theme=dark&hide_border=true"
-    alt="Research Finder Project"
-  />
-</a>
-
-<a href="https://github.com/faizyoshio/OnlineConverter">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=OnlineConverter&theme=dark&hide_border=true"
-    alt="Online Converter"
-  />
-</a>
-
-</div>
-
----
-
-# 🚀 Current Interests
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  💻 Software Engineering                                    │
-│  🤖 Local AI & LLMs                                        │
-│  🧠 AI Training & Fine-Tuning                              │
-│  ⚡ GPU Computing & Inference                              │
-│  🔄 Automation & Developer Tooling                        │
-│  🖥️ Self-Hosted Infrastructure                            │
-│  ☁️ Cloud & DevOps                                        │
-│  🌐 Full-Stack Development                                 │
-│  🌱 Environmental Health Technology                        │
-│  🎨 Creative & Interactive Technology                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 Health × 💻 Technology × 🤖 AI
-
-**Building, experimenting, learning, and turning ideas into working systems.**
-
-<br/>
-
-<a href="https://github.com/faizyoshio">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://linkedin.com/in/faizyoshio">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://youtube.com/@faizyoshio">
-  <img
-    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
-  />
-</a>
-
-<br/><br/>
-
-<img
-src="https://komarev.com/ghpvc/?username=faizyoshio&label=Profile%20Views&style=flat-square&color=13"
-alt="Profile Views"
-/>
-
-</div>
-
----
 
 <!--
 ============================================================
