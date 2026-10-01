@@ -74,47 +74,17 @@ I'm interested in exploring how **software, automation, data, and AI** can be ap
 
 <div align="center">
 
-```mermaid
-flowchart LR
-    subgraph Core["🎯 Core Focus"]
-        SE[💻 Software Engineering]
-        FS[🌐 Full-Stack Development]
-    end
+### 🎯 Core
+`Software Engineering` `Full-Stack Development`
 
-    subgraph AI["🤖 AI & Intelligence"]
-        LLM[🤖 Local AI & LLMs]
-        AT[🧠 AI Training & Fine-Tuning]
-        GPU[⚡ GPU Computing & Inference]
-    end
+### 🤖 AI & Intelligence
+`Local AI & LLMs` `AI Training & Fine-Tuning` `GPU Computing & Inference`
 
-    subgraph Infra["🛠️ Infrastructure"]
-        AU[🔄 Automation & Dev Tooling]
-        SH[🖥️ Self-Hosted Infra]
-        CD[☁️ Cloud & DevOps]
-    end
+### 🛠️ Infrastructure
+`Automation & Dev Tooling` `Self-Hosted Infra` `Cloud & DevOps`
 
-    subgraph Impact["🌱 Impact"]
-        EH[🌱 Environmental Health Tech]
-        CT[🎨 Creative & Interactive Tech]
-    end
-
-    Core --> AI
-    Core --> Infra
-    Core --> Impact
-    AI --> Infra
-    Infra --> Impact
-
-    style SE fill:#1565c0,stroke:#0d47a1,color:#fff
-    style FS fill:#1565c0,stroke:#0d47a1,color:#fff
-    style LLM fill:#7b1fa2,stroke:#4a148c,color:#fff
-    style AT fill:#7b1fa2,stroke:#4a148c,color:#fff
-    style GPU fill:#7b1fa2,stroke:#4a148c,color:#fff
-    style AU fill:#e65100,stroke:#bf360c,color:#fff
-    style SH fill:#e65100,stroke:#bf360c,color:#fff
-    style CD fill:#e65100,stroke:#bf360c,color:#fff
-    style EH fill:#2e7d32,stroke:#1b5e20,color:#fff
-    style CT fill:#2e7d32,stroke:#1b5e20,color:#fff
-```
+### 🌱 Impact
+`Environmental Health Tech` `Creative & Interactive Tech`
 
 </div>
 
