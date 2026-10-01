@@ -4,112 +4,24 @@
 
 ### 🌱 Environmental Health Student • 💻 Developer • 🤖 Local AI Enthusiast • 🎨 Creative Technologist
 
-<p>
-  <strong> Environmental Health Student at Poltekkes Kemenkes Bandung</strong>
-</p>
-
-<p>
-  <img
-    src="https://keperawatan.poltekkesbandung.ac.id/wp-content/uploads/2024/02/cropped-kemenkes_poltekkes_bandung-removebg-preview.png"
-    alt="Poltekkes Kemenkes Bandung"
-    height="32"
-    align="middle"
-  />
-</p>
-
-<p>
-  Passionate about <strong>coding, software development, local AI, AI model training & fine-tuning,
-  automation, self-hosted technology, cloud infrastructure, UI/UX, and experimental technology.</strong>
-</p>
-
-<p>
-  Combining <strong>Environmental Health</strong> with <strong>Software Engineering, AI, and Digital Technology</strong>
-  to explore practical, useful, and innovative solutions.
-</p>
-
-<p>
-  <a href="https://github.com/faizyoshio">
-    <img
-      src="https://img.shields.io/github/followers/faizyoshio?label=Followers&style=for-the-badge&logo=github"
-      alt="GitHub Followers"
-    />
-  </a>
-  <a href="https://github.com/faizyoshio?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/faizyoshio?affiliations=OWNER&style=for-the-badge&logo=github"
-      alt="GitHub Stars"
-    />
-  </a>
-  <img
-    src="https://komarev.com/ghpvc/?username=faizyoshio&style=for-the-badge&logo=github"
-    alt="Profile Views"
-  />
-</p>
-
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 📋 Table of Contents
 
-I'm an **Environmental Health student at Poltekkes Kemenkes Bandung** with a strong interest in technology, software development, artificial intelligence, and digital systems.
-
-Although my academic background is in **Environmental Health**, I spend a lot of my time exploring technology through coding, building applications, experimenting with local AI models, training and fine-tuning models, creating automation workflows, and learning how systems work under the hood.
-
-I'm interested in turning ideas into working systems — from small utilities and web applications to AI infrastructure, self-hosted services, and experimental projects.
-
-### 🔭 What I'm Into
-
-- 💻 Software Development & Programming
-- 🤖 Local AI / LLM / Generative AI
-- 🧠 AI Model Training & Fine-Tuning
-- ⚡ Local Inference & Performance Optimization
-- 🔄 Automation & Developer Tooling
-- 🖥️ Self-Hosted Services & Infrastructure
-- ☁️ Cloud Computing & Deployment
-- 🌐 Web & Mobile Development
-- 🗄️ Databases & Backend Systems
-- 🎨 UI/UX & Digital Product Design
-- 🧊 3D & Interactive Technology
-- 🔧 Hardware, IoT & Experimental Projects
-- 🔐 Privacy, Networking & Technology Exploration
-- 🎮 Gaming & Creative Technology
-
----
-
-## 🤖 AI & Local AI
-
-One of my biggest interests is **running, experimenting with, and understanding AI locally**.
-
-I enjoy exploring AI beyond simply consuming APIs. I'm interested in the complete workflow, from models and inference to APIs, applications, routing, automation, and self-hosted infrastructure.
-
-### Areas I'm Exploring
-
-- 🧠 Local LLM Deployment
-- 🏋️ Model Training & Fine-Tuning
-- ⚙️ Model Loading & Optimization
-- 🚀 GPU Acceleration & Inference
-- 🔗 Multi-Model / LLM Routing
-- 💬 AI-Powered Applications
-- 🔌 AI APIs & Integrations
-- 🐳 Containerized AI Environments
-- 🏠 Self-Hosted AI Infrastructure
-- 🔄 Automated AI Workflows
-- 🛠️ AI Developer Tooling
-- 📊 Model Benchmarking & Experimentation
-- 💻 Local GPU Computing
-
-> **Model → Inference → API → Application → Automation**
-
-I enjoy experimenting with the entire pipeline and understanding how each component works together.
+- [🌱 Environmental Health × Technology](#-environmental-health--technology)
+- [🧠 Things I Like Building](#-things-i-like-building)
+- [🚀 Current Interests](#-current-interests)
+- [⭐ Featured Projects](#-featured-projects)
+- [🛠️ Tech Stack](#-tech-stack)
+- [🌐 Socials](#-socials)
 
 ---
 
 ## 🌱 Environmental Health × Technology
 
-My academic background and technical interests may seem different, but I enjoy combining both.
-
-I'm interested in exploring how **software, automation, data, and AI** can be applied to areas related to Environmental Health, research, education, productivity, and public health technology.
+<div align="center">
 
 ```mermaid
 flowchart TD
@@ -125,9 +37,17 @@ flowchart TD
     style T1 fill:#c62828,stroke:#b71c1c,color:#fff
 ```
 
+</div>
+
+My academic background and technical interests may seem different, but I enjoy combining both.
+
+I'm interested in exploring how **software, automation, data, and AI** can be applied to areas related to Environmental Health, research, education, productivity, and public health technology.
+
 ---
 
-# 🧠 Things I Like Building
+## 🧠 Things I Like Building
+
+<div align="center">
 
 ```text
 🌐 Web Applications
@@ -146,73 +66,11 @@ flowchart TD
 🔐 Privacy & Networking Experiments
 ```
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-  
-<img
-src="https://streak-stats.demolab.com/?user=faizyoshio&theme=dark&hide_border=true"
-alt="Faiz Yoshio's GitHub Streak"
-/>
-
 </div>
 
 ---
 
-# 💡 Random Dev Quote
-
-<div align="center">
-
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-alt="Random Dev Quote"
-/>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/faizyoshio/Advanced-TradingView-Indicator-Suite">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=Advanced-TradingView-Indicator-Suite&theme=dark&hide_border=true"
-    alt="Advanced TradingView Indicator Suite"
-  />
-</a>
-
-<a href="https://github.com/faizyoshio/bmi-calculator">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=bmi-calculator&theme=dark&hide_border=true"
-    alt="BMI Calculator"
-  />
-</a>
-
-<br/>
-
-<a href="https://github.com/faizyoshio/reaserch-finder-Project">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=reaserch-finder-Project&theme=dark&hide_border=true"
-    alt="Research Finder Project"
-  />
-</a>
-
-<a href="https://github.com/faizyoshio/OnlineConverter">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=OnlineConverter&theme=dark&hide_border=true"
-    alt="Online Converter"
-  />
-</a>
-
-</div>
-
----
-
-# 🚀 Current Interests
+## 🚀 Current Interests
 
 <div align="center">
 
@@ -262,78 +120,45 @@ flowchart LR
 
 ---
 
+## ⭐ Featured Projects
+
 <div align="center">
 
-### 🌱 Health × 💻 Technology × 🤖 AI
-
-**Building, experimenting, learning, and turning ideas into working systems.**
-
-<br/>
-
-<a href="https://github.com/faizyoshio">
+<a href="https://github.com/faizyoshio/Advanced-TradingView-Indicator-Suite">
   <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=Advanced-TradingView-Indicator-Suite&theme=dark&hide_border=true"
+    alt="Advanced TradingView Indicator Suite"
   />
 </a>
 
-<a href="https://linkedin.com/in/faizyoshio">
+<a href="https://github.com/faizyoshio/bmi-calculator">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=bmi-calculator&theme=dark&hide_border=true"
+    alt="BMI Calculator"
   />
 </a>
 
-<a href="https://youtube.com/@faizyoshio">
+<a href="https://github.com/faizyoshio/OnlineConverter">
   <img
-    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=OnlineConverter&theme=dark&hide_border=true"
+    alt="Online Converter"
   />
 </a>
 
-<br/><br/>
-
-<img
-src="https://komarev.com/ghpvc/?username=faizyoshio&label=Profile%20Views&style=flat-square&color=13"
-alt="Profile Views"
-/>
+<a href="https://github.com/faizyoshio/reaserch-finder-Project">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=faizyoshio&repo=reaserch-finder-Project&theme=dark&hide_border=true"
+    alt="Research Finder Project"
+  />
+</a>
 
 </div>
 
 ---
 
-# 🌐 Socials
+## 🛠️ Tech Stack
 
-<p align="left">
-
-<a href="https://instagram.com/faizyoshio15">
-  <img
-    src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
-<a href="https://linkedin.com/in/faizyoshio">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://youtube.com/@faizyoshio">
-  <img
-    src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
-    alt="YouTube"
-  />
-</a>
-
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
+### 💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -342,7 +167,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-## 🤖 AI, GPU & Machine Learning
+### 🤖 AI, GPU & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Local_AI-111111?style=for-the-badge" alt="Local AI"/>
@@ -351,7 +176,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="CUDA"/>
 </p>
 
-## 🎨 Frontend & UI
+### 🎨 Frontend & UI
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
@@ -366,7 +191,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
 </p>
 
-## ⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -376,7 +201,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -385,7 +210,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-## ☁️ Cloud, DevOps & Infrastructure
+### ☁️ Cloud, DevOps & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -395,7 +220,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr"/>
 </p>
 
-## 🧪 Testing, Automation & Tooling
+### 🧪 Testing, Automation & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
@@ -404,7 +229,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## 🎨 Design & Creative Tools
+### 🎨 Design & Creative Tools
 
 <p>
   <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
@@ -424,7 +249,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"/>
 </p>
 
-## 🧊 3D, Hardware & Experimental Tech
+### 🧊 3D, Hardware & Experimental Tech
 
 <p>
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
@@ -433,7 +258,7 @@ alt="Profile Views"
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
 </p>
 
-## 🔐 Privacy, Networking & Other Interests
+### 🔐 Privacy, Networking & Other Interests
 
 <p>
   <img src="https://img.shields.io/badge/Tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor"/>
@@ -443,6 +268,36 @@ alt="Profile Views"
 
 ---
 
+# 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/faizyoshio">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/faizyoshio">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/faizyoshio15">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://youtube.com/@faizyoshio">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=faizyoshio&label=Profile%20Views&style=flat-square&color=13"
+alt="Profile Views"
+/>
+
+</div>
+
+---
 
 <!--
 ============================================================
